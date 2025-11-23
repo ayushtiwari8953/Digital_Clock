@@ -21,6 +21,7 @@ const showtime = () =>{
 
     // console.log("hours: " + hr + "mins: " + mins + "secs: " + secs);
 
-    // time.innerHTML =`${hr} : ${min} : ${secs}`;
+    time.innerHTML =`${hr} : ${min} : ${secs}`;
 }
+
 
